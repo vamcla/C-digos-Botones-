@@ -1,2 +1,12 @@
+<!Doctype html>
+<html lang="es">
+ <head>
+  <title><?php echo 'Hola Mundo';?></title>
+ </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
+</html>
+
 <input type="reset" value="Borrar">
 <input type="submit" value="Enviar">
